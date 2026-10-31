@@ -1,0 +1,11 @@
+{
+  "name": "origin-hawk",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Origin Hawk Prime Limited — Strategy. Content. Technology. Growth.",
+  "scripts": {
+    "build": "echo \"Origin Hawk static build ready for Vercel\"",
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
